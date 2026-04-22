@@ -1,4 +1,4 @@
-# Rig Dynamic List Manager
+# Dynamic List Manager
 
 ### The addon manages the **visibility of mesh objects** by organizing them into **Groups**. Each group represents a visual state of the "character","assets","escene","etc".
 
