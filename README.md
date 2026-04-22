@@ -1,11 +1,11 @@
 # Rig Dynamic List Manager
 
-A Blender add-on for intelligently managing rig visibility through organized groups, native keyframes, and performance‑optimized toggling.
+### The addon manages the **visibility of mesh objects** by organizing them into **Groups**. Each group represents a visual state of the "character","assets","escene","etc".
 
 ## Features
 
 - **Dynamic Rig Detection** – Automatically discovers primary and secondary rigs in complex hierarchies.
-- **Bone Collection Tree** – Intuitive expandable/collapsible UI using Blender’s native `layout.panel`.
+- **Bone Collection Tree** – Intuitive expandable/collapsible UI.
 - **Native Animation** – Control object visibility with simple keyframes on the group index.
 - **Blender 4.0+ Compatible**
 
@@ -18,6 +18,7 @@ A Blender add-on for intelligently managing rig visibility through organized gro
 ## Guide
 - [English](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Manager-Complete-User-Guide-344888dbec2a80d89595f820d2783bc0?pvs=73)
 - [Spanish](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Rig-Guia-completa-ccf888dbec2a8312b73801ef221cff09)
+
 ## Basic Workflow
 
 1. Select an armature or a mesh with an armature modifier.
@@ -28,7 +29,7 @@ A Blender add-on for intelligently managing rig visibility through organized gro
 
 ## Version Notes
 
-[Release Notes](https://github.com/eduardito3D/Dynamic-List-Manager/releases)
+## [Releases](https://github.com/eduardito3D/Dynamic-List-Manager/releases)
 
 
 ## Contact & Support
