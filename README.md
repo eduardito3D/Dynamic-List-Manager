@@ -16,8 +16,8 @@
 3. Click `Install…`, select the file, then enable the add-on.
 
 ## Guide
-- [English](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Manager-Complete-User-Guide-344888dbec2a80d89595f820d2783bc0?pvs=73)
-- [Spanish](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Rig-Guia-completa-ccf888dbec2a8312b73801ef221cff09)
+- [ENGLISH](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Manager-Complete-User-Guide-344888dbec2a80d89595f820d2783bc0?pvs=73)
+- [ESPAÑOL](https://dynamic-list-rig-guide.notion.site/Dynamic-List-Rig-Guia-completa-ccf888dbec2a8312b73801ef221cff09)
 
 ## Basic Workflow
 
