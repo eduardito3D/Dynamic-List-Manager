@@ -9,6 +9,14 @@
 - **Native Animation** – Control object visibility with simple keyframes on the group index.
 - **Blender 4.0+ Compatible**
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac446c8b-a399-4b8d-9034-727293e62ab4" />
+
+
+
+
+
+
+
 ## Installation
 
 1. Download the latest `.zip` release.
