@@ -21,7 +21,7 @@
  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e656b54a-3e31-4fa6-aa6d-76e5dd2c7ad4" /> 
  
 # Implementation of Rigs non-destructive
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d8e3f87e-624b-4ccc-b66b-d97836d5605e" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a6693b65-7646-47ff-bd09-abc4a36658f4" />
 
 
 
