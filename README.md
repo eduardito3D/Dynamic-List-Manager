@@ -9,8 +9,19 @@
 - **Native Animation** – Control object visibility with simple keyframes on the group index.
 - **Blender 4.0+ Compatible**
 
+
+# Create multiple "Groups" of meshes
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac446c8b-a399-4b8d-9034-727293e62ab4" />
 
+# One keyframe animates all visibility & Automatic render optimization with drivers
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8368326b-ecce-49ee-98b0-2c3fb322d26a" />
+
+# Support Bone Sub-collection within panel
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e656b54a-3e31-4fa6-aa6d-76e5dd2c7ad4" /> 
+ 
+# Implementation of Rigs non-destructive
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d8e3f87e-624b-4ccc-b66b-d97836d5605e" />
 
 
 
