@@ -11,7 +11,8 @@
 
 
 # Create multiple "Groups" of meshes
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac446c8b-a399-4b8d-9034-727293e62ab4" />
+<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/eduardito3D/Dynamic-List-Manager/89bb1070c1629d00e35656199f15a8c02d633c31/ropaekj.gif" />
+<img width="1920" height="1080" alt="Image" src="https://raw.githubusercontent.com/eduardito3D/Dynamic-List-Manager/89bb1070c1629d00e35656199f15a8c02d633c31/signalisej.gif" />
 
 # One keyframe animates all visibility & Automatic render optimization with drivers
 
